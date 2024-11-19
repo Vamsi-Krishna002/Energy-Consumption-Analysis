@@ -3,7 +3,6 @@
 ## Overview
 This system is designed to analyze and predict energy consumption patterns across different buildings, helping identify potential illegal usage of utilities (water, electricity, and gas). It features an interactive web interface for data visualization and machine learning-based predictions.
 
-![System Interface](interface.png)
 
 ## Features
 - 📊 **Interactive Data Visualization**
@@ -36,20 +35,11 @@ This system is designed to analyze and predict energy consumption patterns acros
 
 1. Clone the repository
 ```bash
-git clone https://github.com/yourusername/energy-consumption-analysis.git
+git clone https://github.com/Vamsi-Krishna002/Energy-Consumption-Analysis.git
 cd energy-consumption-analysis
 ```
 
-2. Create and activate virtual environment (optional but recommended)
-```bash
-python -m venv venv
-source venv/bin/activate  # On Windows: venv\Scripts\activate
-```
 
-3. Install required packages
-```bash
-pip install -r requirements.txt
-```
 
 ## Project Structure
 ```
